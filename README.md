@@ -1,11 +1,11 @@
 # Language
 
   - Github
-    - [@Chinese]()
-    - [@English]()
+    - [@Chinese](https://github.com/Dxg-Tmy/STM32-Board-For-Education-Teaching/blob/main/README.zh.md)
+    - [@English](https://github.com/Dxg-Tmy/STM32-Board-For-Education-Teaching)
   - Gitee
-    - [@中文]()
-    - [@英文]()
+    - [@中文](https://gitee.com/dxg_Project/STM32-Board-For-Education-Teaching/blob/main/README.zh.md)
+    - [@英文](https://gitee.com/dxg_Project/STM32-Board-For-Education-Teaching)
 
 
 
