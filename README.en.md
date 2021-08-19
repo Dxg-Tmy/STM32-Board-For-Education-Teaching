@@ -1,4 +1,4 @@
-# 语言
+# Language
 
   - Github
     - [@Chinese](https://github.com/Dxg-Tmy/STM32-Board-For-Education-Teaching/blob/main/README.zh.md)
@@ -9,6 +9,6 @@
 
 
 
-  # STM32教育教学板卡
-这是一款专用于教育教学的STM32板卡。如果你也是这个行业内的加入我们，你会得到成长
-  
+  # STM32-Board-For-Education-Teaching
+
+  This is STM32 Board For Education Teaching info repository.If u are on Education join us, good for u.Good Luck, have fun.
